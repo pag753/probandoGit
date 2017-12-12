@@ -6,5 +6,6 @@ public class Semejante
 	{
 		JOptionPane.showMessageDialog("HOLA MUNDO CRUEL");
 		JOptionPane.showMessageDialog("HOLA MUNDO CRUEL2");
+		JOptionPane.showMessageDialog("HOLA MUNDO CRUEL3");
 	}
 }
